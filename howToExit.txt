@@ -1,0 +1,1 @@
+Open task manager, and search for Python. There should be two, when one closes another one will spring up. The other one will shut down the KeepAlive. Now go to the command prompt opened and end its task to prevent more from popping up. From there, Just end the other Pythons in task manager. 
